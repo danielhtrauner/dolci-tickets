@@ -1,0 +1,3 @@
+#prepend a pound sign to any line to have it ignored
+John Doe, johndoe@middlebury.edu, 1234
+#Jane Doe, janedoe@middlebury.edu, 5678
